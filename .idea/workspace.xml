@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02284e36-5e6a-45ed-a603-8568021d4411" name="Default Changelist" comment="run/debug empty config file for pycharm">
-      <change beforePath="$PROJECT_DIR$/6.2.1:Reverse-sort-of-list.py" beforeDir="false" afterPath="$PROJECT_DIR$/6.2.1:Reverse-sort-of-list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.3.1:Get-user-guesses.py" beforeDir="false" afterPath="$PROJECT_DIR$/6.3.1:Get-user-guesses.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.3.2:Sum-extra-credit.py" beforeDir="false" afterPath="$PROJECT_DIR$/6.3.2:Sum-extra-credit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.3.3:Hourly-temperature-reporting.py" beforeDir="false" afterPath="$PROJECT_DIR$/6.3.3:Hourly-temperature-reporting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.5.1:Print-multiplication-table.py" beforeDir="false" afterPath="$PROJECT_DIR$/6.5.1:Print-multiplication-table.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +72,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6.3.3:Hourly-temperature-reporting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6.5.1:Print-multiplication-table.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
