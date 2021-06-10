@@ -1,11 +1,10 @@
 # 6.2.1: Reverse sort of list.
 
-"""Sort short_names in reverse alphabetic order.
+# Sort short_names in reverse alphabetic order.
+#
+# Sample output with input: 'Jan Sam Ann Joe Tod'
+# ['Tod', 'Sam', 'Joe', 'Jan', 'Ann'].
 
-Sample output with input: 'Jan Sam Ann Joe Tod'
-['Tod', 'Sam', 'Joe', 'Jan', 'Ann'].
-
-"""
 user_input = input()
 short_names = user_input.split()
 
